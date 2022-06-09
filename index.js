@@ -1,4 +1,4 @@
-﻿const args = process.argv;
+const args = process.argv;
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
